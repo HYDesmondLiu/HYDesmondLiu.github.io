@@ -8,4 +8,4 @@ paperurl: 'https://iccps.acm.org/2022/preliminary-program/'
 citation: 
 ---
 
-![flow_chart.pdf]("BRL algorithm Performance Comparison")
+![Our framework](flow_chart.pdf "BRL algorithm Performance Comparison")
