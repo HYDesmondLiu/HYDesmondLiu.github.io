@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Education
 ======
 * B.S. in Physics, National Central University, 2005
@@ -47,11 +53,6 @@ Skills
 ======
 * Python / Tcl/ Perl
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
