@@ -8,4 +8,4 @@ paperurl: 'https://iccps.acm.org/2022/preliminary-program/'
 citation: 
 ---
 
-![Our framework](./images/flow_chart.pdf "Flow chart")
+<embed src="https://github.com/HYDesmondLiu/HYDesmondLiu.github.io/blob/master/images/flow_chart.pdf" width="500" height="375" type="application/pdf">
