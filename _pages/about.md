@@ -37,7 +37,7 @@ Previous Experiences
   * Virtuoso L/XL/GXL, SKILL Programming
 
 * **OPC/DFM/RET**
-  * Taiwan Semiconductor Manufacturing Company
+  * Taiwan Semiconductor Manufacturing Company (TSMC)
   * N20 BEOL Optical Proximity Correction, Double Patterning, Resolution Enhancement Technique, and Design for Manufacturability 
 
 Misc.
