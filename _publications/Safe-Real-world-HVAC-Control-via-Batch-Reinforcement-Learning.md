@@ -7,3 +7,5 @@ venue: 'International Conference on Cyber-Physical Systems (ICCPS) 2022 (to be a
 paperurl: 'https://iccps.acm.org/2022/preliminary-program/'
 citation: 
 ---
+
+![Our framework](images/flow_chart.pdf)
