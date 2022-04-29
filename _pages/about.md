@@ -25,10 +25,12 @@ Research focus
 Previous Experiences
 ======
 * **VLSI CAD with ML**
-  * Internship at Cadence Design Systems Inc. prototyping partitioning with ML clustering algorithm
+  * Cadence Design Systems Inc. 
+  * Pprototyping partitioning with ML clustering (DBSCAN) algorithm
 
 * **VLSI Analog Layout**
-  * Cadence Design Systems Inc. Virtuoso L/XL/GXL, SKILL Programming
+  * Cadence Design Systems Inc. 
+  * Virtuoso L/XL/GXL, SKILL Programming
 
 * **OPC/DFM/RET**
   * TSMC N20 BEOL OPC/DPT/DFM 
