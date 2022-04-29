@@ -11,7 +11,8 @@ redirect_from:
 
 About me
 ======
-I am a Ph.D. student at UC San Deigo. My PI is [Professor Rajesh Gupta](http://mesl.ucsd.edu/gupta/), our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
+I am a Ph.D. student at UC San Deigo. My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/),  
+our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
 My research focus is Batch/Offline Reinforcement Learning and its applications on Building systems.  
 
 Research focus
