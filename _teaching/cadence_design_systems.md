@@ -8,7 +8,7 @@ date: 2013-12-01
 location: "Hsinchu, Taiwan"
 ---
 
-Virtuoso L/XL/GXL Layout Suite
+Virtuoso L/XL/GXL Layout Suite  
 ======
-SKILL Programming
+SKILL Programming  
 ======
