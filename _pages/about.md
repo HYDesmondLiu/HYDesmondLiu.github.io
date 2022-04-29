@@ -25,8 +25,8 @@ Research focus
 Previous Experiences
 ======
 * **VLSI CAD with ML**
-  * Cadence Design Systems Inc. 
-  * Pprototyping partitioning with ML clustering (DBSCAN) algorithm
+  * Cadence Design Systems Inc. (Milpitas, CA, US)
+  * Prototyping partitioning with ML clustering (DBSCAN) algorithm
 
 * **VLSI Analog Layout**
   * Cadence Design Systems Inc. 
