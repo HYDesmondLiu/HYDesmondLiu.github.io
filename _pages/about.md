@@ -22,6 +22,10 @@ Research focus
   Our Batch-Constrained Munchausen Q-learning (BCM) outperforms other BRL methods in real building multi-zone environments 
   during weeks of evaluation time period. It maximizes the energy efficiency and the occupants’ thermal comfort simultaneously.
 
+* **Combination of model-based and model-free BRL**
+  * By creating transitions via pre-trained ensembled environment dynamics models, we could create a "model buffer" to assist the BRL 
+  training. We use deterministic TD3+BC model as our foundation.  
+
 Previous Experiences
 ======
 * **VLSI CAD with ML**
