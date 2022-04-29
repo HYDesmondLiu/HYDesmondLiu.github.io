@@ -51,8 +51,11 @@ Work experience
 
 Skills
 ======
-* Python / Tcl/ Perl
-
+* Progamming Language:
+  * Python / Tcl/ Perl
+* Software:
+  * pytorch, numpy, matplotlib
+  * Cadence Virtuoso/PVS, Synopsys Proteus/ProGen/IC Workbench/DFM, Mentor SVRF, Brion Tachyon, etc.
   
 Talks
 ======
