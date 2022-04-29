@@ -37,7 +37,7 @@ Previous Experiences
   * Virtuoso L/XL/GXL, SKILL Programming
 
 * **OPC/DFM/RET**
-  * TSMC N20 BEOL OPC/DPT/DFM 
+  * TSMC N20 BEOL Optical Proximity Correction, Double Patterning and Design for Manufacturability 
 
 Misc.
 ======
