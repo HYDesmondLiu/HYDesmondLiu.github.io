@@ -22,7 +22,7 @@ Research focus
   Our Batch-Constrained Munchausen Q-learning (BCM) outperforms other BRL methods in real building multi-zone environments 
   during weeks of evaluation time period. It maximizes the energy efficiency and the occupants’ thermal comfort simultaneously.
 
-* **Combination of model-based and model-free BRL**
+* **Combination of Model-based and Model-free BRL**
   * By simulating transitions via pre-trained ensembled environment dynamics models, we could create a "model buffer" to assist the BRL 
   training. We use deterministic TD3+BC model as our foundation.  
 
@@ -37,7 +37,8 @@ Previous Experiences
   * Virtuoso L/XL/GXL, SKILL Programming
 
 * **OPC/DFM/RET**
-  * TSMC N20 BEOL Optical Proximity Correction, Double Patterning and Design for Manufacturability 
+  * Taiwan Semiconductor Manufacturing Company
+  * N20 BEOL Optical Proximity Correction, Double Patterning, Resolution Enhancement Technique, and Design for Manufacturability 
 
 Misc.
 ======
