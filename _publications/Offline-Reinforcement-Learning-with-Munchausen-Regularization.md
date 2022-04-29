@@ -8,4 +8,4 @@ paperurl: 'http://mesl.ucsd.edu/pubs/Hsinyu_NeurIPS2021_OfflineRL.pdf'
 citation: 'Liu, Hsin-Yu, Bharathan Balaji, Rajesh Gupta, and Dezhi Hong. (2021). &quot; Offline Reinforcement Learning with Munchausen Regularization &quot; <i>Offline Reinforcement Learning Workshop at Neural Information Processing Systems, 2021 (NeurIPS 2021)</i>. '
 ---
 
-![Aggregated bootstrapped metrics](/home/hsinyu/HYDesmondLiu.github.io/images/rliable_1.pdf?raw=true "BRL algorithm Performance Comparison")
+![Aggregated bootstrapped metrics](/home/hsinyu/HYDesmondLiu.github.io/images/rliable_1.pdf)
