@@ -8,6 +8,8 @@ paperurl: 'https://vlsicad.ucsd.edu/Publications/Conferences/372/c372.pdf'
 citation: 
 ---
 
+![Identifying an unhealthy trimer](/images/Trimer_SVM.png)
+
 Helium-Neon ion beam microscopy (HIM) has shown significant promise in the areas of nanoscale imaging, editing, 
 and patterning of semiconductor structures. The unique capabilities of this technology are enabling new applications 
 in semiconductor process control by exploiting the ability to characterize materials in the sub-5 nanometer spatial scale with high speed. 
