@@ -7,7 +7,7 @@ venue: 'International Conference on Cyber-Physical Systems (ICCPS) (to be appear
 paperurl: 'https://iccps.acm.org/2022/preliminary-program/'
 citation: 
 ---
-![Framework Setup](images/Safe_HVAC_flow_chart.png)
+![Framework Setup](/images/Safe_HVAC_flow_chart.png)
 
 Buildings account for 30% of energy use worldwide, and approximately half of it is ascribed to HVAC systems. Reinforcement Learning (RL) has improved upon traditional control methods in increasing the energy efficiency of HVAC systems. However, prior works
 use online RL methods that require configuring complex thermal
