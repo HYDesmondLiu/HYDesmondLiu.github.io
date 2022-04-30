@@ -43,4 +43,4 @@ Previous Experiences
 
 Misc.
 ======
-I enjoy heavy metal music, baseball, hiking, and exploring natures.
+I enjoy heavy metal music, [baseball (Go! Padres!)](/images/padres.jpeg), hiking, and exploring natures.
