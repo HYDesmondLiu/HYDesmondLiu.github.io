@@ -5,7 +5,7 @@ permalink: /publication/METRICS
 date: 2018-10-01
 venue: 'Workshop on Open-Source EDA Technology'
 paperurl: 'https://woset-workshop.github.io/PDFs/2018/a21.pdf'
-citation: 
+citation: 'Hashemi, S., Ho, C. T., Kahng, A. B., Liu, H. Y., & Reda, S. (2018). METRICS 2.0: A machine-learning based optimization system for IC design. In Workshop on Open-Source EDA Technology (p. 21).'
 ---
 ![METRICS 2.0](/images/METRICS.png)
 

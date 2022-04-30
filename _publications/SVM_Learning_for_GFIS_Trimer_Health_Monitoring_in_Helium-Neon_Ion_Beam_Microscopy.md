@@ -5,7 +5,7 @@ permalink: /_publication/SVM_Learning_for_GFIS_Trimer_Health_Monitoring_in_Heliu
 date: 2019-10-22
 venue: 'Advanced Process Control Conference (APC)'
 paperurl: 'https://vlsicad.ucsd.edu/Publications/Conferences/372/c372.pdf'
-citation: 
+citation: 'Kahng, A. B., Liu, H. Y., Park, C., Pichumani, R., & Saul, L. SVM Learning for GFIS Trimer Health Monitoring in Helium-Neon Ion Beam Microscopy., Advanced Process Control Conference, 2019'
 ---
 
 ![Identifying an unhealthy trimer](/images/Trimer_SVM.png)
