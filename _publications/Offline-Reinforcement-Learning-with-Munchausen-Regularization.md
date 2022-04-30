@@ -7,7 +7,7 @@ venue: 'NeurIPS 2021 Offline RL Workshop'
 paperurl: 'http://mesl.ucsd.edu/pubs/Hsinyu_NeurIPS2021_OfflineRL.pdf'
 citation: 'Liu, Hsin-Yu, Bharathan Balaji, Rajesh Gupta, and Dezhi Hong. &quot; Offline Reinforcement Learning with Munchausen Regularization &quot; <i>Offline Reinforcement Learning Workshop at Neural Information Processing Systems, 2021 (NeurIPS 2021)</i>. '
 ---
-![Aggregate bootstrapped metrics](/images/rliable_1.pdf)
+![Aggregate bootstrapped metrics](/images/offline_mrl_metrics.png)
 
 Most temporal differences based (TD-based) Reinforcement Learning (RL) methods focus on replacing the true value of a transiting state 
 by their current estimate of this value. Munchausen-RL (M-RL) proposes the idea of incorporating the current policy to be leveraged to bootstrap RL. 

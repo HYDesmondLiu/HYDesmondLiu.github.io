@@ -7,6 +7,7 @@ venue: 'Workshop on Open-Source EDA Technology'
 paperurl: 'https://woset-workshop.github.io/PDFs/2018/a21.pdf'
 citation: 
 ---
+![METRICS 2.0](/images/METRICS.png)
 
 Despite advancements in quality of results of design automation tools, many challenges remain to be solved. 
 In particular, there is lack of a unified and standardized system for collecting, storing, and communicating design process metrics. 
