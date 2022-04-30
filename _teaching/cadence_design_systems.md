@@ -4,7 +4,7 @@ collection: teaching
 type: "Professional Training"
 permalink: /teaching/cadence_design_systems
 venue: "Cadence Design Systems Inc."
-date: 2013-12-01
+date: 2018-01-01
 location: "Hsinchu, Taiwan"
 ---
 
