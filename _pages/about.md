@@ -46,4 +46,4 @@ Previous Experiences
 
 Misc.
 ======
-I enjoy heavy metal music, [baseball (Go! Padres!)](/images/padres.jpeg), [hiking](/images/mountain.png), and [exploring natures](/images/white_sand.jpeg).
+I enjoy heavy metal music, [baseball (Go! Padres!)](/images/padres.jpeg), [hiking](/images/mountain.png), and [exploring nature](/images/white_sand.jpeg).
