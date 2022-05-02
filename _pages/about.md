@@ -31,15 +31,18 @@ Previous Experiences
 ======
 * **VLSI CAD with ML**
   * Cadence Design Systems Inc. (Milpitas, CA, US)
-  * Prototyping partitioning with ML clustering (DBSCAN) algorithm
+    * Machine Learning Intern-Software Engineer
+    * Prototyping partitioning with ML clustering (DBSCAN) algorithm
 
 * **VLSI Analog Layout**
-  * Cadence Design Systems Inc. Principal Application Engineer
-  * Virtuoso L/XL/GXL, SKILL Programming
+  * Cadence Design Systems Inc. 
+    * Principal Application Engineer
+    * Virtuoso L/XL/GXL, SKILL Programming
 
 * **OPC/DFM/RET**
-  * Taiwan Semiconductor Manufacturing Company (TSMC) OPC R&D
-  * N20 BEOL Optical Proximity Correction, Double Patterning, Resolution Enhancement Technique, and Design for Manufacturability 
+  * Taiwan Semiconductor Manufacturing Company (TSMC) 
+    * OPC R&D Engineer
+    * N20 BEOL Optical Proximity Correction, Double Patterning, Resolution Enhancement Technique, and Design for Manufacturability 
 
 Misc.
 ======
