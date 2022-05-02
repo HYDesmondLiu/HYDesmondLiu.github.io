@@ -11,7 +11,8 @@ redirect_from:
 
 About me
 ======
-![UCSD](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg)
+![UCSD](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg). 
+
 I am a Ph.D. student at University of California San Deigo (UCSD).  
 My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/),  
 our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
