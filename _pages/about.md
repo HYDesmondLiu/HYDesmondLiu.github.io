@@ -16,13 +16,12 @@ About me
 I am a Ph.D. student at University of California San Deigo (UCSD).  
 My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/),  
 our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
-
 My research focus is Batch/Offline Deep Reinforcement Learning and its applications.
-![Offline RL](https://offline-rl.github.io/assets/OFFLINE_RL.gif "Offline-RL")
-
 
 Research focus
 ======
+![Offline RL](https://offline-rl.github.io/assets/OFFLINE_RL.gif "Offline-RL")
+
 * **Combination of Model-based and Model-free BRL**
   * By simulating transitions via pre-trained ensembled environment dynamics models, we could create a "model buffer" to assist the BRL 
   training. We use deterministic TD3+BC model as our foundation.  
