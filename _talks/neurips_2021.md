@@ -1,5 +1,5 @@
 ---
-title: "NeurIPS 2021 Offline-RL Workshop"
+title: "Offline Reinforcement Learning with Munchausen Regularization"
 collection: talks
 type: "Poster Session"
 permalink: /talks/neurips_2021

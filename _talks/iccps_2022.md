@@ -1,5 +1,5 @@
 ---
-title: "International Conference on Cyber-Physical Systems"
+title: "Safe HVAC Control via Batch Reinforcement Learning"
 collection: talks
 type: "Proceedings"
 permalink: /talks/iccps_2022
