@@ -22,9 +22,21 @@ Research focus
 ======
 ![Offline RL](https://offline-rl.github.io/assets/OFFLINE_RL.gif "Offline-RL")
 
-* **Combination of Model-based and Model-free BRL**
-  * By simulating transitions via pre-trained ensembled environment dynamics models, we could create a "model buffer" to assist the BRL 
-  training. We use deterministic TD3+BC model as our foundation.  
+* **Rule-based policy regularization for reinforcement learning-based building control**
+  * Rule-based control (RBC) is widely adopted in buildings due to its stability and
+robustness. It resembles a behavior cloning methodology refined by human ex-
+pertise. However, it is unlikely for RBC to exceed a reinforcement learning (RL)
+agent’s performance as deep RL model constantly evolves and is scalable. In this
+paper, we explore how to incorporate rule-based control into reinforcement learn-
+ing to learn a more robust policy in both online and offline settings with a unified
+approach. We start with state-of-the-art online and offline RL methods, TD3 and
+TD3+BC, then improve on them using a dynamically weighted actor loss func-
+tion to selectively choose which policy RL models to learn from at each time step
+of training. With experiments across various weather conditions in both deter-
+ministic and stochastic scenarios, we empirically demonstrate that our rule-based
+incorporated control regularization (RUBICON) method outperforms representa-
+tive baseline methods in offline settings by 40.7% and by 49.7% in online settings
+for building-RL environments.  
 
 * **Offline-RL Regularization**
   * Batch-RL (BRL) method needs no simulator, only prior transitions as replay buffer to learn the optimal policy. 
