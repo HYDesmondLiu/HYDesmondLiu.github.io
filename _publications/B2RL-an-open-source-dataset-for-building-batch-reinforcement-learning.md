@@ -1,7 +1,7 @@
 ---
 title: "B2RL: An open-source dataset for building batch reinforcement learning."
 collection: publications
-permalink: /publication/B2RL-an-open-source-dataset-for-building-batch-reinforcement-learningOffline_Reinforcement_Learning_with_Munchausen_Regularization
+permalink: /publication/B2RL-an-open-source-dataset-for-building-batch-reinforcement-learning
 date: 2022-11-10
 venue: 'RLEM Workshop (BuildSys')'
 paperurl: https://arxiv.org/abs/2209.15626
