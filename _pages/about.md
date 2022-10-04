@@ -22,7 +22,7 @@ Research focus
 ======
 ![Offline RL](https://offline-rl.github.io/assets/OFFLINE_RL.gif "Offline-RL")
 
-* **Rule-based policy regularization for reinforcement learning-based building control**
+* **Rule-based policy regularization for reinforcement learning-based building control (Submitted to ICLR 2023)**
   * Rule-based control (RBC) is widely adopted in buildings due to its stability and
 robustness. It resembles a behavior cloning methodology refined by human ex-
 pertise. However, it is unlikely for RBC to exceed a reinforcement learning (RL)
