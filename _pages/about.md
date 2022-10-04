@@ -35,23 +35,6 @@ for building-RL environments.
   Our Batch-Constrained Munchausen Q-learning (BCM) outperforms other BRL methods in real building multi-zone environments 
   during weeks of evaluation time period. It maximizes the energy efficiency and the occupants’ thermal comfort simultaneously.
 
-Previous Experiences
-======
-* **VLSI CAD with ML**
-  * Cadence Design Systems Inc. (Milpitas, CA, US)
-    * Machine Learning Intern-Software Engineer
-      * Prototyping partitioning with ML clustering (DBSCAN) algorithm
-
-* **VLSI Analog Layout**
-  * Cadence Design Systems Inc. 
-    * Principal Application Engineer
-      * Virtuoso L/XL/GXL layout suite, SKILL Programming
-
-* **OPC/DFM/RET**
-  * Taiwan Semiconductor Manufacturing Company (TSMC) 
-    * OPC R&D Engineer
-      * N20 BEOL Optical Proximity Correction, Double Patterning, Resolution Enhancement Technique, and Design for Manufacturability 
-
 Misc.
 ======
 I enjoy heavy metal music, [baseball (Go! Padres!)](/images/padres.jpeg), [hiking](/images/mountain.png), and [exploring nature](/images/white_sand.jpeg).
