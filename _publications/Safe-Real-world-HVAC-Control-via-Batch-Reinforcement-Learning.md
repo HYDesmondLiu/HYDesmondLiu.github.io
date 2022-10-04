@@ -1,11 +1,11 @@
 ---
-title: "Safe Real-world HVAC Control via Batch Reinforcement Learning"
+title: "Safe HVAC Control via Batch Reinforcement Learning"
 collection: publications
 permalink: /publication/Safe-Real-world-HVAC-Control-via-Batch-Reinforcement-Learning
 date: 2022-05-04
 venue: 'International Conference on Cyber-Physical Systems (ICCPS)'
 paperurl: 'https://conferences.computer.org/cpsiot/pdfs/ICCPS2022-ifhdJu28kaMK8qGYbf7d0/096700a181/096700a181.pdf'
-citation: 
+citation: 'Liu, H. Y., Balaji, B., Gao, S., Gupta, R., & Hong, D. (2022, May). Safe HVAC Control via Batch Reinforcement Learning. In 2022 ACM/IEEE 13th International Conference on Cyber-Physical Systems (ICCPS) (pp. 181-192). IEEE.'
 ---
 ![Framework Setup](/images/Safe_HVAC_flow_chart.png)
 

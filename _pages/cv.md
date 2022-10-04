@@ -71,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Taipei Animal Shelter Volunteer
+* Taipei animal shelter volunteer

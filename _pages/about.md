@@ -31,7 +31,7 @@ of training. With experiments across various weather conditions in both determin
 incorporated control regularization (RUBICON) method outperforms representative baseline methods in offline settings by 40.7% and by 49.7% in online settings
 for building-RL environments.  
 
-* **Offline-RL Regularization**
+* **Offline-RL Regularization (Papers published in NeurIPS Offline-RL Workshop 2021 and ICCPS 2022)**
   * Batch-RL (BRL) method needs no simulator, only prior transitions as replay buffer to learn the optimal policy. 
   Our Batch-Constrained Munchausen Q-learning (BCM) outperforms other BRL methods in real building multi-zone environments 
   during weeks of evaluation time period. It maximizes the energy efficiency and the occupants’ thermal comfort simultaneously.
