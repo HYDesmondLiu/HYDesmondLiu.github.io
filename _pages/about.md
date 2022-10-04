@@ -20,6 +20,7 @@ My research focus is Batch/Offline Deep Reinforcement Learning and its applicati
 
 Research focus
 ======
+* **Batch Reinforcement Learning (Offline RL)**
 ![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
 
 * **Rule-based policy regularization for reinforcement learning-based building control (Submitted to ICLR 2023)**
