@@ -20,7 +20,7 @@ My research focus is Batch/Offline Deep Reinforcement Learning and its applicati
 
 Research focus
 ======
-![Offline RL](https://offline-rl.github.io/assets/OFFLINE_RL.gif "Offline-RL")
+![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
 
 * **Rule-based policy regularization for reinforcement learning-based building control (Submitted to ICLR 2023)**
   * Rule-based control (RBC) is widely adopted in buildings due to its stability and robustness. It resembles a behavior cloning methodology refined by human expertise. However, it is unlikely for RBC to exceed a reinforcement learning (RL) agent’s performance as deep RL model constantly evolves and is scalable. In this paper, we explore how to incorporate rule-based control into reinforcement learning to learn a more robust policy in both online and offline settings with a unified
