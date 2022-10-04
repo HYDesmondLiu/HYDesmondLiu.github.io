@@ -23,19 +23,11 @@ Research focus
 ![Offline RL](https://offline-rl.github.io/assets/OFFLINE_RL.gif "Offline-RL")
 
 * **Rule-based policy regularization for reinforcement learning-based building control (Submitted to ICLR 2023)**
-  * Rule-based control (RBC) is widely adopted in buildings due to its stability and
-robustness. It resembles a behavior cloning methodology refined by human ex-
-pertise. However, it is unlikely for RBC to exceed a reinforcement learning (RL)
-agent’s performance as deep RL model constantly evolves and is scalable. In this
-paper, we explore how to incorporate rule-based control into reinforcement learn-
-ing to learn a more robust policy in both online and offline settings with a unified
+  * Rule-based control (RBC) is widely adopted in buildings due to its stability and robustness. It resembles a behavior cloning methodology refined by human expertise. However, it is unlikely for RBC to exceed a reinforcement learning (RL) agent’s performance as deep RL model constantly evolves and is scalable. In this paper, we explore how to incorporate rule-based control into reinforcement learning to learn a more robust policy in both online and offline settings with a unified
 approach. We start with state-of-the-art online and offline RL methods, TD3 and
-TD3+BC, then improve on them using a dynamically weighted actor loss func-
-tion to selectively choose which policy RL models to learn from at each time step
-of training. With experiments across various weather conditions in both deter-
-ministic and stochastic scenarios, we empirically demonstrate that our rule-based
-incorporated control regularization (RUBICON) method outperforms representa-
-tive baseline methods in offline settings by 40.7% and by 49.7% in online settings
+TD3+BC, then improve on them using a dynamically weighted actor loss function to selectively choose which policy RL models to learn from at each time step
+of training. With experiments across various weather conditions in both deterministic and stochastic scenarios, we empirically demonstrate that our rule-based
+incorporated control regularization (RUBICON) method outperforms representative baseline methods in offline settings by 40.7% and by 49.7% in online settings
 for building-RL environments.  
 
 * **Offline-RL Regularization**
