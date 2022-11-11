@@ -23,13 +23,7 @@ Research focus
 * **Batch Reinforcement Learning (Offline RL)**
 ![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
 
-* **Rule-based policy regularization for reinforcement learning-based building control (Submitted to ICLR 2023)**
-  * Rule-based control (RBC) is widely adopted in buildings due to its stability and robustness. It resembles a behavior cloning methodology refined by human expertise. However, it is unlikely for RBC to exceed a reinforcement learning (RL) agent’s performance as deep RL model constantly evolves and is scalable. In this paper, we explore how to incorporate rule-based control into reinforcement learning to learn a more robust policy in both online and offline settings with a unified
-approach. We start with state-of-the-art online and offline RL methods, TD3 and
-TD3+BC, then improve on them using a dynamically weighted actor loss function to selectively choose which policy RL models to learn from at each time step
-of training. With experiments across various weather conditions in both deterministic and stochastic scenarios, we empirically demonstrate that our rule-based
-incorporated control regularization (RUBICON) method outperforms representative baseline methods in offline settings by 40.7% and by 49.7% in online settings
-for building-RL environments.  
+
 
 * **Offline-RL Regularization (Papers published in NeurIPS Offline-RL Workshop 2021 and ICCPS 2022)**
   * Batch-RL (BRL) method needs no simulator, only prior transitions as replay buffer to learn the optimal policy. 
