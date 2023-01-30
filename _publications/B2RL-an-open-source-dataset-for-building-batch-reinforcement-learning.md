@@ -8,6 +8,7 @@ paperurl: 'https://arxiv.org/abs/2209.15626'
 citation:
 ---
 ![Learning curves of BRL models learn from expert buffers](/images/B2RL_learning_curves.png)
+[Link to conference presentation video](https://www.youtube.com/watch?v=u3g1HxZwh_s#t=3h05m35s)
 
 Batch reinforcement learning (BRL) is an emerging research area
 in the RL community. It learns exclusively from static datasets (i.e.
