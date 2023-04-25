@@ -22,8 +22,7 @@ Research focus
 ======
 * **Batch Reinforcement Learning (Offline RL)**
 ![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
-
-
+Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020). An Optimistic Perspective on Offline Reinforcement Learning International Conference on Machine Learning (ICML).
 
 * **Offline-RL Regularization (Papers published in NeurIPS Offline-RL Workshop 2021 and ICCPS 2022)**
   * Batch-RL (BRL) method needs no simulator, only prior transitions as replay buffer to learn the optimal policy. 
