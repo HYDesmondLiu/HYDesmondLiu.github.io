@@ -16,7 +16,7 @@ About me
 I am a Ph.D. student at University of California San Deigo (UCSD).  
 My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/),  
 our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
-My research focus is Batch/Offline Deep Reinforcement Learning and its applications.
+My research focus is Deep Reinforcement Learning methodology improvement and its application in real-world problems.
 
 Research focus
 ======
