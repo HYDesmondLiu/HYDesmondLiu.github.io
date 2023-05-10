@@ -35,7 +35,7 @@ Projects
   Our Batch-Constrained Munchausen Q-learning (BCM) outperforms other BRL methods in real building multi-zone environments 
   during weeks of evaluation time period. It maximizes the energy efficiency and the occupants’ thermal comfort simultaneously.
 
-* **Incorporting Existing Policy with RL (Paper to appear in e-Energy 2023)**
+* **Incorporting Existing Policy with RL (Paper published in e-Energy 2023)**
   * We incorporate existing rule-based control (RBC) policy with RL to improve the robustness and stability. It is an unified
   method to be added in both online and offline methods.
 

@@ -23,6 +23,16 @@ Education
 
 Work experience
 ======
+* *Sep. 2018 ~ Now: Graduate Student Researcher*
+  * **University of California - San Diego (La Jolla, CA, USA)**
+    * Deep Reinforcement Learning research:
+      ** Online/Offline RL policy regularization
+      ** Open-source dataset for offline-RL
+      ** Incorporating existing policy with RL
+      ** Offline-to-Online RL
+    * Building HVAC control with RL
+
+
 * *Summer 2020: Machine Learning Intern-Software Engineer*
   * **Cadence Design Systems Inc. (Milpitas, CA, USA)**
     * Create functions for automatically generating partitions to accelerate design space exploration:
