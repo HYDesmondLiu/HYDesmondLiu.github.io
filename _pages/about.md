@@ -26,7 +26,7 @@ Research focus
 
 Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020). An Optimistic Perspective on Offline Reinforcement Learning International Conference on Machine Learning (ICML).
 
-
+s
 
 Projects 
 ======
