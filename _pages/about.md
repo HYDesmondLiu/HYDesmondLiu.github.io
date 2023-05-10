@@ -18,15 +18,11 @@ My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/),
 our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
 My research focus is Deep Reinforcement Learning methodology improvement and its application in real-world problems.
 
-
 Research focus
 ======
 * **Batch Reinforcement Learning (Offline RL)**
 ![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
-
 Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020). An Optimistic Perspective on Offline Reinforcement Learning International Conference on Machine Learning (ICML).
-
-s
 
 Projects 
 ======
@@ -47,7 +43,6 @@ Projects
   * Pre-trained non-expert BRL models are expected to increase their averaged sampled Q-value during the training. We develop
   a method to let the policy learns to yield a higher average Q-value over time. Our method outperforms SOTA methods with better
   initial and final scores during evaluations.
-
 
 Misc.
 ======
