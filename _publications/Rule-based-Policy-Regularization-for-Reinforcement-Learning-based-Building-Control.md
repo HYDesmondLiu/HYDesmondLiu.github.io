@@ -7,7 +7,7 @@ venue: 'The 14th ACM International Conference on Future Energy Systems (ACM e-En
 paperurl: 
 citation:
 ---
-![RUBICON Flow](/images/RUBICON.pdf)
+![RUBICON Flow](/images/RUBICON.png)
 
 Rule-based control (RBC) is widely adopted in buildings due to its
 stability and robustness. It resembles a behavior cloning methodology
