@@ -54,8 +54,8 @@ Skills
 * Progamming Language:
   * Python / Tcl/ Perl/ SKILL (Cadence)
 * Software:
-  * pytorch, numpy, matplotlib
-  * Cadence Virtuoso/PVS, Synopsys Proteus/ProGen/IC Workbench/DFM, Mentor SVRF, Brion Tachyon, etc.
+  ** Machine Learning/Data Science: pytorch, tensorflow, numpy, matplotlib
+  ** VLSI/OPC: Cadence Virtuoso/PVS, Synopsys Proteus/ProGen/IC Workbench/DFM, Mentor SVRF, Brion Tachyon, etc.
   
 Talks
 ======
