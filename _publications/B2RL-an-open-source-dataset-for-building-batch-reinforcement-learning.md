@@ -5,7 +5,7 @@ permalink: /publication/B2RL-an-open-source-dataset-for-building-batch-reinforce
 date: 2022-11-10
 venue: 'RLEM Workshop (BuildSys)'
 paperurl: 'https://arxiv.org/abs/2209.15626'
-citation:
+citation: 'Liu, Hsin-Yu, Xiaohan Fu, Bharathan Balaji, Rajesh Gupta, and Dezhi Hong. "B2RL: an open-source dataset for building batch reinforcement learning." In Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, pp. 462-465. 2022.'
 ---
 ![Learning curves of BRL models learn from expert buffers](/images/B2RL_learning_curves.png)
 [Link to conference presentation video](https://www.youtube.com/watch?v=u3g1HxZwh_s#t=3h05m35s)
