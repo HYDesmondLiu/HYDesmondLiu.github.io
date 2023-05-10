@@ -22,7 +22,7 @@ My research focus is Deep Reinforcement Learning methodology improvement and its
 Research focus
 ======
 * **Batch Reinforcement Learning (Offline RL)**
-![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif | width=50)
+![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
 
 Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020). An Optimistic Perspective on Offline Reinforcement Learning International Conference on Machine Learning (ICML).
 
