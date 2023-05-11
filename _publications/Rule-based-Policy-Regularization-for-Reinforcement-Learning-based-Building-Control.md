@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Rule-based-Policy-Regularization-for-Reinforcement-Learning-based-Building-Control
 date: 2023-06-20
 venue: 'The 14th ACM International Conference on Future Energy Systems (ACM e-Energy 2023)'
-paperurl: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/EENERGY23/26/e712a798-e48e-11ed-b37c-16bb50361d1f/OUT/eenergy23-26.html
+paperurl: 'https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/EENERGY23/26/e712a798-e48e-11ed-b37c-16bb50361d1f/OUT/eenergy23-26.html'
 citation:
 ---
 ![RUBICON Flow](/images/RUBICON.png)
