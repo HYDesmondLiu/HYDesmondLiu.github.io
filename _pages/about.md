@@ -11,7 +11,7 @@ redirect_from:
 
 About me
 ======
-![UCSD](/images/UCSD_Seal.png){: width="50%" style="float: right"}  
+![UCSD](/images/UCSD_Seal.png){: width="30%" style="float: right"}  
 
 I am a Ph.D. candidate at University of California San Deigo (UCSD).  
 My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/),  
