@@ -21,10 +21,10 @@ My research focus is Deep Reinforcement Learning methodology improvement and its
 
 Research focus
 ======
-* **Reinforcement Learning (online/offline/offline-to-online)**
+* **Reinforcement Learning: Online/offline policy regularization, offline-to-online RL, transfer-RL**
 ![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
 
-Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020). An Optimistic Perspective on Offline Reinforcement Learning International Conference on Machine Learning (ICML).
+Animation: Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020). An Optimistic Perspective on Offline Reinforcement Learning International Conference on Machine Learning (ICML).
 
 
 Projects 
