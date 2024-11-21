@@ -13,10 +13,11 @@ About me
 ======
 ![UCSD](/images/UCSD_Seal.png){: width="25%" style="float: right"}  
 
-I am a Ph.D. candidate at University of California San Deigo (UCSD).  
+I am an accomplished AI/ML researcher specializing in Deep Reinforcement Learning, Deep Learning, and Machine Learning. I have a proven track record of leveraging cutting-edge AI/ML technologies to tackle complex technical and business challenges, delivering innovative and impactful solutions.
+
+I hold a Ph.D. in Computer Engineering from the University of California, San Diego (UCSD), where my research focused on advancing the frontiers of AI and its practical applications.
 My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/),  
 our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
-My research focus is Deep Reinforcement Learning methodology improvement and its application in real-world problems.
 
 
 Research focus
@@ -29,25 +30,44 @@ Animation: Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020). An Optimistic Pers
 
 Projects 
 ======
-* **Offline-RL Regularization (Papers published in NeurIPS Offline-RL Workshop 2021 and ICCPS 2022)**
-  * Batch-RL (BRL) method needs no simulator, only prior transitions as replay buffer to learn the optimal policy. 
-  Our Batch-Constrained Munchausen Q-learning (BCM) outperforms other BRL methods in real building multi-zone environments 
-  during weeks of evaluation time period. It maximizes the energy efficiency and the occupants’ thermal comfort simultaneously.
+* **Policy Regularization in Model-Free Building Control via Comprehensive Approaches from Offline to Online Reinforcement Learning**
+  * Ph.D. Dissertation, Jun. 2024
+  * Developed a novel policy regularization framework for reinforcement learning in HVAC control systems, ensuring safe and efficient operation in real-world settings.
+  * Released the first open-source building batch reinforcement learning dataset, enabling benchmarking and advancing research in energy-efficient building management.
 
-* **Incorporting Existing Policy with RL (Paper published in e-Energy 2023)**
-  * We incorporate existing rule-based control (RBC) policy with RL to improve the robustness and stability. It is an unified
-  method to be added in both online and offline methods.
+* **Adaptive Policy Regularization for Offline-to-Online Reinforcement Learning in HVAC Control**
+  * NeurIPS CCAI & ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)’ Nov. 2024
+  * Automatic policy regularization fine-tuning from offline to online via average Q-value estimators
+  * 40.3% performance improvement from the state-of-the-art methods
 
-* **Open-sourced Building BRL dataset (Paper published in BuildSys' 22 RLEM)**
-  * We are the first to open-source the building HVAC control dataset for BRL benchmark. With one dataset of real-building control
-  and sensing data, and the other one generated with simulation environments. The benchmark results are also included.
+* **Rule-based Policy Regularization for Reinforcement Learning-based Building Control**
+  * ACM International Conference on Future Energy Systems (e-Energy). Jun. 2023
+  * Adaptively incorporates existing policy and RL policies with higher estimated values in policy learning, applicable for both online and offline settings
+  * >40% of average episode reward increases for both Online and Offline approaches
 
-* **Offline-to-Online RL (Submitted to incoming ML conference)**
-  * Pre-trained non-expert BRL models are expected to increase their averaged sampled Q-value during the training. We develop
-  a method to let the policy learns to yield a higher average Q-value over time. Our method outperforms SOTA methods with better
-  initial and final scores during evaluations.
+* **B2RL-An open-source dataset for building batch reinforcement learning**
+  * ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys’) - RL Energy Management. Nov. 2022
+  * First Released the first open-source Building Batch RL dataset for benchmarking purposes
+
+* **Safe HVAC Control via Batch Reinforcement Learning**
+  * International Conference on Cyber-Physical Systems. (ICCPS). May. 2022
+  * Pioneered the development and deployment of Batch RL in real-world building environments
+  * Incorporate KL-divergence for penalizing large policy update with 16.7% energy reduction
+
+* **Offline Reinforcement Learning with Munchausen Regularization**
+  * NeurIPS Offline RL Workshop. Dec. 2021
+  * Developed RL policy regularization techniques to penalize large policy updates via KL Divergence
 
 
-Misc.
+* **METRICS 2.0: A machine-learning based optimization system for IC design**
+  * Workshop on Open-Source EDA Technology (WOFSET) 2018
+  * Proposed new EDA metrics for EDA-ML studies, marking the first integration of such metrics
+
+* **SVM Learning for GFIS Trimer Health Monitoring in Helium-Neon Ion Beam Microscopy**
+  * Advanced Process Conference (APC), 2019
+  * Developed SVM for image classification for automated trimer monitoring with >95% precisions
+
+
+Personal Life
 ======
 I enjoy heavy metal music, [baseball (Go! Padres!)](/images/padres.jpeg), [hiking](/images/mountain.png), and [exploring nature](/images/white_sand.jpeg).
