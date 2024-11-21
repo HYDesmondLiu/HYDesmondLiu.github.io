@@ -13,11 +13,11 @@ About me
 ======
 ![UCSD](/images/UCSD_Seal.png){: width="25%" style="float: right"}  
 
-I am an accomplished AI/ML researcher specializing in Deep Reinforcement Learning, Deep Learning, and Machine Learning. I have a proven track record of leveraging cutting-edge AI/ML technologies to tackle complex technical and business challenges, delivering innovative and impactful solutions.
+- I am an accomplished AI/ML researcher specializing in Deep Reinforcement Learning, Deep Learning, and Machine Learning. I have a proven track record of leveraging cutting-edge AI/ML technologies to tackle complex technical and business challenges, delivering innovative and impactful solutions.
 
-I hold a Ph.D. in Computer Engineering from the University of California, San Diego (UCSD), where my research focused on advancing the frontiers of AI and its practical applications.
-My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/),  
-our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
+- I hold a Ph.D. in Computer Engineering from the University of California, San Diego (UCSD), where my research focused on advancing the frontiers of AI and its practical applications.
+
+- My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/), and our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
 
 
 Research focus
