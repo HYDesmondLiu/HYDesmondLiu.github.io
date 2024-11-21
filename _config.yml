@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hsin-Yu Liu's website"
 title_separator          : "-"
 name                     : Hsin-Yu Liu
-description              : Ph.D. student at UCSD
+description              : Ph.D. in Computer Engineering from the University of California, San Diego
 url                      : 'https://HYDesmondLiu.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : '' # the subpath of your site, e.g. "/blog"
 repository               : "HYDesmondLiu/HYDesmondLiu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hsin-Yu, Liu (Desmond)"
   avatar           : "HYL_Profile.png"
-  bio              : "Ph.D. student at  University of California San Diego"
+  bio              : "Ph.D. in Computer Engineering from the University of California, San Diego"
   location         : "La Jolla, CA, USA"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
