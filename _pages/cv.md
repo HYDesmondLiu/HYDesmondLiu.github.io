@@ -17,9 +17,9 @@ Publications
 
 Education
 ======
-University of California, San Diego — Ph.D. in Computer Engineering (Sep 2018 – Jun 2024)
-National Taiwan University — M.S. in Optoelectronics (Sep 2006 – Jul 2008)
-National Central University — B.S. in Physics (Sep 2001 – Jul 2005)
+University of California, San Diego — Ph.D. in Computer Engineering 
+National Taiwan University — M.S. in Optoelectronics
+National Central University — B.S. in Physics
 
 Work experience
 ======
@@ -66,9 +66,6 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-Service and leadership
-======
-* Taipei animal shelter volunteer
   
 Service and leadership
 ======
