@@ -17,55 +17,49 @@ Publications
 
 Education
 ======
-* Ph.D in Computer Engineering, University of California San Diego, 2023 (expected)
-* M.S. in Optoelectronics, National Taiwan University, 2008
-* B.S. in Physics, National Central University, 2005
+University of California, San Diego — Ph.D. in Computer Engineering (Sep 2018 – Jun 2024)
+National Taiwan University — M.S. in Optoelectronics (Sep 2006 – Jul 2008)
+National Central University — B.S. in Physics (Sep 2001 – Jul 2005)
 
 Work experience
 ======
-* *Sep. 2018 ~ Now: Graduate Student Researcher*
+* *Apr. 2025 ~ Now: Applied AI Researcher*
+  * **Articul8 AI (Remote / Dublin, CA)**
+    * Improving hardware coding domain-specific models and benchmarks; post-training RL, synthetic data generation, and reinforcement-learning based personalization.
+
+* *May 2024 ~ Apr. 2025: Machine Learning Engineer II*
+  * **Glidewell Dental (Irvine, CA)**
+    * Designed an Offline RL-based Next-Best-Action recommendation system and LLM RAG pipelines for unstructured documents; 2D-to-3D reconstruction projects for manufacturing.
+
+* *Sep. 2018 ~ Jun. 2024: Graduate Student Researcher*
   * **University of California - San Diego (La Jolla, CA, USA)**
-    * Deep Reinforcement Learning research:
-      ** Online/Offline RL policy regularization
-      ** Open-source dataset for offline-RL
-      ** Incorporating existing policy with RL
-      ** Offline-to-Online RL
-    * Building HVAC control with RL
+    * Research on online/offline/offline-to-online reinforcement learning, policy regularization, and RL for building HVAC control. Released open-source building batch RL datasets and published related work (Ph.D. dissertation Jun. 2024).
 
+* *Jun. 2020 ~ Aug. 2020: Machine Learning Software Intern*
+  * **Cadence Design Systems (Milpitas, CA)**
+    * Developed and deployed clustering and partitioning algorithms for EDA performance and area optimization.
 
-* *Summer 2020: Machine Learning Intern-Software Engineer*
-  * **Cadence Design Systems Inc. (Milpitas, CA, USA)**
-    * Create functions for automatically generating partitions to accelerate design space exploration:
-    * Include most of the critical paths distribution in entire design
-    * Partitions with reduced design area and instance numbers by a factor around 1/3 to 1/4 
-    * Prototyping with both Machine Learning clustering (DBSCAN) and heat map grid-based algorithms
+* *Oct. 2013 ~ Jul. 2018: Principal Application Engineer*
+  * **Cadence Design Systems (Hsinchu, Taiwan)**
+    * Built custom GUIs/scripts (Python, SKILL), supported customers, and collaborated with R&D on performance and feature improvements.
 
-* *2013 ~ 2018: Principal Application Engineer*
-  * **Cadence Design Systems Inc.**
-    * Develop customized GUIs/scripts using Cadence SKILL
-    * Mask data preparation for foundry N14/N28 reticle frames
-    * Host customer training and workshops
-    * Co-work with R&D for functionality improvement, bug-fix and performance enhancement
-  
-* *2009 ~ 2013: OPC R&D Engineer*
-  * **Taiwan Semiconductor Manufacturing Company (TSMC)**
-    * N20 interconnection layers OPC model build-up, OPC and DPT recipe optimization. (ProGen, Proteus)
-    * Path-finding and optimization of double patterning issues: Odd-loop, VCMS, pattern loading, etc.
-    * Aerial/resist image simulations for design rule & process robustness evaluation. (Brion Tachyon, S-Litho, ICWB)
-    * Resolution enhancement researches: Forbidden pitch, combined source of annular and quasar, SMO, etc.( S-Litho)
-    * Flow automation, such as pattern density calculator, DPT-to-OPC flow connector, etc. (Perl)
-    * VCMS (Via-Correlated Metal Separation): BEOL dual damascene LELE cross-layer  DPT overlay reduction scheme
-    * Rule deck creation and optimization: LOP/MRC/XOR/CRC, etc. (Calibre DRC)
-    * Test mask creations: PMK/OMK/VMK/DMK, etc. (Tcl, Laker)
-    * Rule-based OPC for interconnection layers restricted rule
+* *Nov. 2008 ~ Sep. 2013: R&D Engineer*
+  * **Taiwan Semiconductor Manufacturing Company (TSMC, Hsinchu, Taiwan)**
+    * Research and development on OPC, DPT, and process-aware optimization for manufacturing.
 
 Skills
 ======
-* Progamming Language:
-  * Python / Tcl/ Perl/ SKILL (Cadence)
-* Software:
-  ** Machine Learning/Data Science: pytorch, tensorflow, numpy, matplotlib
-  ** VLSI/OPC: Cadence Virtuoso/PVS, Synopsys Proteus/ProGen/IC Workbench/DFM, Mentor SVRF, Brion Tachyon, etc.
+Programming Languages:
+* Python, Perl, Tcl
+
+ML / DL / RL Frameworks & Tools:
+* PyTorch, TensorFlow, Keras, NumPy, Pandas, scikit-learn, XGBoost, LightGBM, Stable-Baselines, OpenAI Gym, MuJoCo, HuggingFace
+
+Infra / Tools:
+* Docker, Slurm, Kubernetes, AWS (S3/EC2/SageMaker)
+
+VLSI / EDA Tools:
+* Cadence Virtuoso / PVS, Synopsys Proteus / ProGen / IC Workbench, Mentor SVRF, Brion Tachyon
   
 Talks
 ======
