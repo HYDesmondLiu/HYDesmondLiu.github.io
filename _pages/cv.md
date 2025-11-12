@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<hr style="height:1px;border:none;background:#ddd;margin:0.75rem 0;">
 
 Publications
 ======
@@ -17,9 +19,9 @@ Publications
 
 Education
 ======
-University of California, San Diego — Ph.D. in Computer Engineering 
-National Taiwan University — M.S. in Optoelectronics
-National Central University — B.S. in Physics
+* University of California, San Diego — Ph.D. in Computer Engineering 
+* National Taiwan University — M.S. in Optoelectronics
+* National Central University — B.S. in Physics
 
 Work experience
 ======
@@ -67,6 +69,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Taipei animal shelter volunteer
