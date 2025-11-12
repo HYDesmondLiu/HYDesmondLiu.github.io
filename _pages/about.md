@@ -13,22 +13,28 @@ About me
 ======
 ![UCSD](/images/UCSD_Seal.png){: width="25%" style="float: right"}  
 
+- Currently working at [Articul8 AI](https://www.articul8.ai/) as an Applied AI Researcher
+
 - I am an accomplished AI/ML researcher specializing in Deep Reinforcement Learning, Deep Learning, and Machine Learning. I have a proven track record of leveraging cutting-edge AI/ML technologies to tackle complex technical and business challenges, delivering innovative and impactful solutions.
 
-- I hold a Ph.D. in Computer Engineering from the University of California, San Diego (UCSD), where my research focused on advancing the frontiers of AI and its practical applications.
+- I hold a Ph.D. in Computer Engineering from the University of California, San Diego (UCSD), where my research focused on Reinforcement Learning algorithms development and its applications.
 
-- My PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/), and our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
+- My Ph.D. PI is [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/), and our lab is [Microelectronic Embedded Systems Laboratory (MESL)](http://mesl.ucsd.edu/).  
 
 
 Research focus
 ======
+
+* **Domain Specific Models/Agents Training/Evaluations, Synthetic Datasets Generation/Curation**
+[Our Domain Specific Models outperform state-of-the-art proprietary models](https://www.articul8.ai/blog/the-expert-advantage-domain-specific-models-outperform-general-purpose-models)
+
 * **Reinforcement Learning: Online/offline policy regularization, offline-to-online RL, transfer-RL**
 ![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
 
 Animation: Agarwal, R., Schuurmans, D. & Norouzi, M.. (2020). An Optimistic Perspective on Offline Reinforcement Learning International Conference on Machine Learning (ICML).
 
 
-Papers
+Publications
 ======
 * **Policy Regularization in Model-Free Building Control via Comprehensive Approaches from Offline to Online Reinforcement Learning**  
   *Ph.D. Dissertation, Jun. 2024*  
