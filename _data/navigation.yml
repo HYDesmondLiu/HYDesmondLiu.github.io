@@ -5,10 +5,7 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
+  # Teaching removed (archived). See _teaching.disabled and _pages/teaching.html.disabled
  # - title: "Portfolio"
  #   url: /portfolio/
         
