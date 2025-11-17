@@ -27,7 +27,7 @@ Research focus
 
 * **Domain Specific Models/Agents Training/Evaluations, Synthetic Datasets Generation/Curation**
 [Our Domain Specific Models outperform state-of-the-art proprietary models](https://www.articul8.ai/blog/the-expert-advantage-domain-specific-models-outperform-general-purpose-models)
-
+![aether](images/rtl_coding_model_benchmark.png)  
 * **Reinforcement Learning: Online/offline policy regularization, offline-to-online RL, transfer-RL**
 ![Offline Reinforcement Learning](https://offline-rl.github.io/assets/OFFLINE_RL.gif)
 
