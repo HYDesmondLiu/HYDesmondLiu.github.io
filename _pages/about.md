@@ -13,7 +13,10 @@ About me
 ======
 ![UCSD](/images/UCSD_Seal.png){: width="25%" style="float: right"}  
 
-- Currently working at [Articul8 AI](https://www.articul8.ai/) as an Applied AI Researcher
+- Currently working at [Articul8 AI](https://www.articul8.ai/) as an Applied AI Researcher.
+  - Training Domain-Specific Models (DSMs) using SLM to outperform state-of-the-art close-sourced models.
+  - Post-training alignments with Reinforcement Learning (GRPO, DPO, RLHF) and Rejection Sampling 
+  - Automatic User-Feedback Fine-Tuning system developements
 
 - I am an accomplished AI/ML researcher specializing in Deep Reinforcement Learning, Deep Learning, and Machine Learning. I have a proven track record of leveraging cutting-edge AI/ML technologies to tackle complex technical and business challenges, delivering innovative and impactful solutions.
 
