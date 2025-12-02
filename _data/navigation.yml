@@ -12,8 +12,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # CV archived (see _pages/cv.md.disabled). To restore, rename the file back to `_pages/cv.md` and uncomment below.
+  # - title: "CV"
+  #   url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
